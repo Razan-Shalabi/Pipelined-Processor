@@ -1,0 +1,9 @@
+# Active-HDL generated / compiled output
+ArchPrj/prj2/prj2/
+ArchPrj/prj2/compile/
+ArchPrj/prj2/log/
+*.asdb
+# per-user workspace files
+*.wsw
+*.wsp
+*.duser
